@@ -4,28 +4,28 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-04 07:07+0000\n"
-"Last-Translator: Eric <zxmegaxqug@hldrive.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"openwrt/luciapplicationsolsr/zh_Hans/>\n"
+"PO-Revision-Date: 2025-01-22 02:38+0000\n"
+"Last-Translator: try496 <pinghejk@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/openwrt/luciapplicationsolsr/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/mid.js:152
 msgid "Active MID announcements"
-msgstr "活动的 MID 通告"
+msgstr "活跃的 MID 通告"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/topology.js:173
 msgid "Active OLSR nodes"
-msgstr "活动的 OLSR 节点"
+msgstr "活跃的 OLSR 节点"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/hna.js:252
 msgid "Active host net announcements"
-msgstr "活动的主机网络通告"
+msgstr "活跃的主机网络通告"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/frontend/olsrd.js:128
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/frontend/olsrd6.js:126
@@ -585,7 +585,7 @@ msgstr "确保 OLSRd 正在运行， “jsoninfo” 插件已加载，端口配�
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/routes.js:182
 msgid "Metric"
-msgstr "跃点数"
+msgstr "度量值"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/frontend/olsrd.js:288
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/frontend/olsrd.js:524
@@ -733,7 +733,7 @@ msgstr "橙色"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/hna.js:250
 msgid "Overview of currently active OLSR host net announcements"
-msgstr "当前活动的 OLSR 主机网络通告概览"
+msgstr "当前活跃的 OLSR 主机网络通告概览"
 
 #: applications/luci-app-olsr/htdocs/luci-static/resources/view/olsr/status-olsr/neighbors.js:529
 msgid "Overview of currently established OLSR connections"

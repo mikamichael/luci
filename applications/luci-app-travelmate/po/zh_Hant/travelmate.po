@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-01-05 04:02+0000\n"
-"Last-Translator: Yuan Law <traverslombard@outlook.com>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"openwrt/luciapplicationstravelmate/zh_Hant/>\n"
+"PO-Revision-Date: 2025-02-14 21:56+0000\n"
+"Last-Translator: ZW <roc_fe@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/openwrt/luciapplicationstravelmate/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.10\n"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:76
 msgid "-- AP Selection --"
@@ -26,15 +26,15 @@ msgstr "AP QR-Codes..."
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1037
 msgid "Add Uplink %q"
-msgstr "新增上行連接 %q"
+msgstr "新增上行鏈結%q"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:865
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:868
 msgid "Add Uplink..."
 msgstr "上行連接..."
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:295
 msgid "Additional Settings"
-msgstr "附加設定"
+msgstr "額外設定"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:365
 msgid ""
@@ -75,7 +75,7 @@ msgstr ""
 msgid ""
 "Automatically add open uplinks like hotel captive portals to your wireless "
 "config."
-msgstr "自動新增開放的上行連接 (例如旅館的強制登錄門戶) 加入到您的無線設定中。"
+msgstr "自動新增開放的上行連結 (例如旅館的強制登錄門戶) 加入到您的無線設定中。"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:582
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:303
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:506
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:756
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:757
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:928
 msgid "BSSID"
 msgstr "BSSID"
@@ -110,11 +110,11 @@ msgstr "CHAP"
 msgid "Captive Portal Detection"
 msgstr "網頁驗證入口偵測"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:395
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:390
 msgid "Captive Portal URL"
 msgstr "網頁驗證入口網址"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:754
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:755
 msgid "Channel"
 msgstr "頻道"
 
@@ -175,7 +175,7 @@ msgstr "已停用"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:46
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:131
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:769
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:770
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1043
 msgid "Dismiss"
 msgstr "關閉"
@@ -184,29 +184,29 @@ msgstr "關閉"
 msgid "Drag to reorder"
 msgstr "拖動來排序"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:425
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:420
 msgid "E-Mail Hook"
 msgstr "電子郵件掛鉤"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:443
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:438
 msgid "E-Mail Profile"
-msgstr "電郵設定檔"
+msgstr "電子郵件設定檔"
+
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:423
+msgid "E-Mail Receiver Address"
+msgstr "電子郵件收件人位址"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:428
-msgid "E-Mail Receiver Address"
-msgstr "電郵收件人位址"
-
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:433
 msgid "E-Mail Sender Address"
-msgstr "電郵寄件人位址"
+msgstr "電子郵件寄件人位址"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:296
 msgid "E-Mail Settings"
 msgstr "電子郵件設定"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:438
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:433
 msgid "E-Mail Topic"
-msgstr "電郵主旨"
+msgstr "電子郵件主旨"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:425
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:983
@@ -226,7 +226,7 @@ msgstr "EAP-MSCHAPV2"
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:411
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:969
 msgid "EAP-Method"
-msgstr "可擴展身份驗證協定(EAP)-方式"
+msgstr "EAP方式"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:428
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:986
@@ -256,13 +256,13 @@ msgstr "啟用/停用此網路"
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:301
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:284
 msgid "Enabled"
-msgstr "啟用"
+msgstr "已啟用"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:307
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:757
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:758
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:934
 msgid "Encryption"
-msgstr "加密(Encryption)"
+msgstr "加密"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:250
 msgid "Ext. Hooks"
@@ -289,7 +289,7 @@ msgstr "為每個上行連路產生一個隨機的單播MAC 位址。"
 
 #: applications/luci-app-travelmate/root/usr/share/rpcd/acl.d/luci-app-travelmate.json:3
 msgid "Grant access to LuCI app travelmate"
-msgstr "授予 luci-app-travelmate 擁有 UCI 存取的權限"
+msgstr "授予存取luci-app-travelmate的權限"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:380
 msgid ""
@@ -348,17 +348,13 @@ msgid ""
 msgstr ""
 "限制自動加入的開放上行鏈路的最大數量。 要停用此限制，請將其設定為「0」。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:390
-msgid "Limit the nearby scan results to process only the strongest uplinks."
-msgstr "將附近的掃描結果限制為僅處理最強的上行鏈路。"
-
 #: applications/luci-app-travelmate/root/usr/share/luci/menu.d/luci-app-travelmate.json:35
 msgid "Log View"
 msgstr "日誌檢視"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:556
 msgid "MAC Address"
-msgstr "MAC 位址"
+msgstr "MAC位址"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:423
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:981
@@ -384,10 +380,6 @@ msgstr "最小訊號品質閾值 (百分比)，作為 (中斷) 連線上行的�
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:339
 msgid "Net Error Check"
 msgstr "網路錯誤檢查"
-
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/logread.js:22
-msgid "No travelmate related logs yet!"
-msgstr "還沒有和 travlemate 相關的日誌！"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:327
 msgid "OWE"
@@ -449,22 +441,22 @@ msgstr "密碼"
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:481
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1031
 msgid "Password of Private Key"
-msgstr "私鑰密碼"
+msgstr "私密金鑰密碼"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:465
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1018
 msgid "Path to CA-Certificate"
-msgstr "CA 憑證路徑"
+msgstr "CA憑證路徑"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:471
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1023
 msgid "Path to Client-Certificate"
-msgstr "用戶憑證的路徑"
+msgstr "用戶端憑證路徑"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:476
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:1027
 msgid "Path to Private Key"
-msgstr "私鑰的路徑"
+msgstr "私密金鑰路徑"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:266
 msgid "Please install the separate 'qrencode' package."
@@ -473,8 +465,8 @@ msgstr "請安裝「qrencode」套件。"
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:296
 msgid ""
 "Please note: E-Mail notifications require the separate setup of the "
-"<em>mstmp</em> package.<br /><p>&#xa0;</p>"
-msgstr "請注意：電子郵件通知需要安裝<em>mstmp</em>套件<br /><p>&#xa0;</p>"
+"<em>msmtp</em> package.<br /><p>&#xa0;</p>"
+msgstr "請注意：電子郵件通知需要安裝<em>msmtp</em>套件<br /><p>&#xa0;</p>"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:344
 msgid "ProActive Uplink Switch"
@@ -486,7 +478,7 @@ msgid ""
 "already existing connection."
 msgstr "不管已經存在的連線，主動掃描並切換到更高優先順序的上行。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:443
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:438
 msgid "Profile used by 'msmtp' for travelmate notification E-Mails."
 msgstr "用於 travelmate 電子郵件提醒的「msmtp」資料。"
 
@@ -502,13 +494,13 @@ msgstr "發射天線選擇"
 msgid "Randomize MAC Addresses"
 msgstr "隨機 MAC 位址"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:428
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:423
 msgid "Receiver address for travelmate notification E-Mails."
 msgstr "travelmate 電子郵件提醒的收件人位址。"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:279
 msgid "Remove"
-msgstr "移除"
+msgstr "刪除"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:277
 msgid "Remove this network"
@@ -516,11 +508,11 @@ msgstr "刪除此網路"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:117
 msgid ""
-"Render the QR-Code of the selected Access Point to comfortably transfer the "
-"WLAN credentials to your mobile devices."
+"Render the QR-Code of the selected Access Point to transfer the WLAN "
+"credentials to your mobile devices comfortably."
 msgstr "為選取的 AP 產生 QR-Code 來便利的傳輸登錄資訊至行動裝置。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:774
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:775
 msgid "Repeat Scan"
 msgstr "重複掃描"
 
@@ -548,7 +540,7 @@ msgstr "執行旗標"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:299
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:495
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:755
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:756
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:914
 msgid "SSID"
 msgstr "SSID"
@@ -562,10 +554,6 @@ msgstr "SSID (隱藏)"
 msgid "Save"
 msgstr "儲存"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:390
-msgid "Scan Limit"
-msgstr "掃描限制"
-
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:739
 msgid "Scan on"
 msgstr "在此掃描"
@@ -574,15 +562,15 @@ msgstr "在此掃描"
 msgid "Script Arguments"
 msgstr "指令碼參數"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:433
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:428
 msgid "Sender address for travelmate notification E-Mails."
 msgstr "travelmate 電子郵件提醒的發件人位址。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:425
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:420
 msgid "Sends notification E-Mails after every succesful uplink connect."
 msgstr "在每次上行連接成功後都傳送電子郵件提醒。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:413
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:408
 msgid "Service Priority"
 msgstr "服務優先權"
 
@@ -618,7 +606,7 @@ msgid ""
 "Standard VPN service which will be automatically added to new STA profiles."
 msgstr ""
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:761
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:762
 msgid "Starting wireless scan on '"
 msgstr "在此開始無線掃描"
 
@@ -638,14 +626,14 @@ msgstr "站台MAC位址"
 msgid "Status / Version"
 msgstr "狀態／版本"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:753
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:754
 msgid "Strength"
 msgstr "強度"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:413
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:971
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:414
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:972
@@ -668,24 +656,20 @@ msgstr "介面指標"
 msgid "The logical vpn network interface like 'wg0'."
 msgstr "邏輯 vpn 網路介面，如「wg0」。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:395
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:390
 msgid ""
 "The selected URL will be used for connectivity- and captive portal checks."
 msgstr "選取的網址將用於網路可連接性和網頁驗證入口檢查。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:413
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:408
 msgid "The selected priority will be used for travelmate processes."
 msgstr "travelmate 行程將使用已選擇的優先權。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:404
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:399
 msgid ""
 "The selected user agent will be used for connectivity- and captive portal "
 "checks."
 msgstr "選取的使用者將用於網路可連接性和網頁驗證入口檢查。"
-
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/logread.js:29
-msgid "The syslog output, pre-filtered for travelmate related messages only."
-msgstr "此表單顯示 syslog 輸出，僅針對 travelmate 相關訊息進行預過濾。"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:59
 msgid "The uplink interface has been updated."
@@ -711,7 +695,7 @@ msgstr ""
 "為了使用 travelmate，您需要設定一次上行介面。此精靈將產生 IPv4 和 IPv6 的相關"
 "網路介面及其相關的防火牆和網路設定。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:438
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:433
 msgid "Topic for travelmate notification E-Mails."
 msgstr "travelmate 電子郵件提醒的標題。"
 
@@ -740,7 +724,7 @@ msgstr "使用系統證書"
 msgid "Use the specified MAC address for this uplink."
 msgstr "為此上行鏈路使用指定的 MAC 位址。"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:404
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:399
 msgid "User Agent"
 msgstr "用戶代理"
 
@@ -886,7 +870,7 @@ msgstr "WPA3 OWE (CCMP)"
 msgid "WPA3 Pers. (SAE)"
 msgstr "WPA3 個人. (CCMP)"
 
-#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:763
+#: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/stations.js:764
 msgid "Wireless Scan"
 msgstr "無線掃描"
 
@@ -928,6 +912,19 @@ msgstr "僅使用第一個 radio (radio0)"
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:309
 msgid "use the second radio only (radio1)"
 msgstr "僅使用第二個 radio (radio1)"
+
+#~ msgid "No travelmate related logs yet!"
+#~ msgstr "還沒有和 travlemate 相關的日誌！"
+
+#~ msgid ""
+#~ "The syslog output, pre-filtered for travelmate related messages only."
+#~ msgstr "此表單顯示 syslog 輸出，僅針對 travelmate 相關訊息進行預過濾。"
+
+#~ msgid "Limit the nearby scan results to process only the strongest uplinks."
+#~ msgstr "將附近的掃描結果限制為僅處理最強的上行鏈路。"
+
+#~ msgid "Scan Limit"
+#~ msgstr "掃描限制"
 
 #~ msgid "Station Interface"
 #~ msgstr "站台介面"
