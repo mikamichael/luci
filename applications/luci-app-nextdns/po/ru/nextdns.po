@@ -1,19 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-03-27 07:24+0000\n"
-"Last-Translator: AHOHNMYC <lqwh2h2cwa@protonmail.com>\n"
+"PO-Revision-Date: 2025-02-15 16:12+0000\n"
+"Last-Translator: Alexander <dmitriev8925@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationsnextdns/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17-dev\n"
-
-#: applications/luci-app-nextdns/root/usr/share/luci/menu.d/luci-app-nextdns.json:24
-msgid "Configuration"
-msgstr "Конфигурация"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.10\n"
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:23
 msgid "Configuration ID"
@@ -25,7 +21,7 @@ msgstr "Включить NextDNS."
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:18
 msgid "Enabled"
-msgstr "Включена"
+msgstr "Включено"
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:29
 msgid "Expose LAN clients information in NextDNS analytics."
@@ -33,15 +29,15 @@ msgstr "Показать информацию о клиентах из лока�
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:12
 msgid ""
-"For further information, go to <a href=\"https://nextdns.io\" target=\"_blank"
-"\">nextdns.io</a>."
+"For further information, go to <a href=\"https://nextdns.io\" "
+"target=\"_blank\">nextdns.io</a>."
 msgstr ""
-"Для получения дополнительной информации перейдите по ссылке <a href="
-"\"https://nextdns.io\" target=\"_blank\">nextdns.io</a>."
+"Для получения дополнительной информации перейдите по ссылке <a "
+"href=\"https://nextdns.io\" target=\"_blank\">nextdns.io</a>."
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:15
 msgid "General"
-msgstr "Главный"
+msgstr "Общий"
 
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:26
 msgid "Go to nextdns.io to create a configuration."
@@ -59,6 +55,10 @@ msgstr "Записывать запросы в журнал"
 msgid "Log individual queries to system log."
 msgstr "Записывать в системный журнал отдельный запросы."
 
+#: applications/luci-app-nextdns/root/usr/share/luci/menu.d/luci-app-nextdns.json:24
+msgid "Logs"
+msgstr "Журналы"
+
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:9
 #: applications/luci-app-nextdns/root/usr/share/luci/menu.d/luci-app-nextdns.json:3
 msgid "NextDNS"
@@ -67,10 +67,6 @@ msgstr "NextDNS"
 #: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/overview.js:10
 msgid "NextDNS Configuration."
 msgstr "Конфигурация NextDNS."
-
-#: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/logread.js:15
-msgid "No nextdns related logs yet!"
-msgstr "Журналы nextdns пока отсутствуют!"
 
 #: applications/luci-app-nextdns/root/usr/share/luci/menu.d/luci-app-nextdns.json:15
 msgid "Overview"
@@ -84,9 +80,14 @@ msgstr "Сообщить информацию о клиенте"
 msgid "The ID of your NextDNS configuration."
 msgstr "Идентификатор вашей конфигурации NextDNS."
 
-#: applications/luci-app-nextdns/htdocs/luci-static/resources/view/nextdns/logread.js:24
-msgid "The syslog output, pre-filtered for nextdns related messages only."
-msgstr "Вывод syslog, отфильтрованный только по сообщениям от nextdns."
+#~ msgid "Configuration"
+#~ msgstr "Конфигурация"
+
+#~ msgid "No nextdns related logs yet!"
+#~ msgstr "Журналы nextdns пока отсутствуют!"
+
+#~ msgid "The syslog output, pre-filtered for nextdns related messages only."
+#~ msgstr "Вывод syslog, отфильтрованный только по сообщениям от nextdns."
 
 #~ msgid ""
 #~ "Available locations are: Switzerland, Iceland, Finland, Panama and Hong "
