@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-27 18:20+0000\n"
-"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-01-20 23:30+0000\n"
+"Last-Translator: Didier Martin <dm.martin@free.fr>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationssmartdns/fr/>\n"
 "Language: fr\n"
@@ -10,17 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:792
 msgid "Additional Args for upstream dns servers"
-msgstr ""
+msgstr "Args (arguments) complémentaires pour serveurs dns amont."
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:886
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:1090
 msgid ""
 "Additional Flags for rules, read help on domain-rule for more information."
 msgstr ""
+"Paramètres additionnels pour les règles, lire l'aide domain-rule pour plus "
+"d'informations."
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:885
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:1089
@@ -41,8 +43,9 @@ msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:132
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:639
+#, fuzzy
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Réglages avancés"
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:253
 msgid ""
@@ -155,7 +158,7 @@ msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:560
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:76
 msgid "Dnsmasq Forwarded To Smartdns Failure"
@@ -344,7 +347,7 @@ msgstr ""
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:131
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:638
 msgid "General Settings"
-msgstr ""
+msgstr "Réglages généraux"
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:599
 msgid "Generate Coredump"
@@ -533,7 +536,7 @@ msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:64
 msgid "RUNNING"
-msgstr ""
+msgstr "EXÉCUTANT"
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:341
 msgid "Reply Domain TTL Max"
@@ -577,7 +580,6 @@ msgid "Serve expired"
 msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:389
-#: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:675
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:813
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:967
 msgid "Server Group"
@@ -862,10 +864,6 @@ msgstr ""
 msgid "https"
 msgstr ""
 
-#: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:651
-msgid "ip"
-msgstr ""
-
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:295
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:452
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:858
@@ -874,10 +872,6 @@ msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:1143
 msgid "open website"
-msgstr ""
-
-#: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:656
-msgid "port"
 msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:556
@@ -897,7 +891,6 @@ msgid "tls"
 msgstr ""
 
 #: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:554
-#: applications/luci-app-smartdns/htdocs/luci-static/resources/view/smartdns/smartdns.js:665
 msgid "type"
 msgstr ""
 

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-20 10:36+0000\n"
-"Last-Translator: st7105 <st7105@gmail.com>\n"
+"PO-Revision-Date: 2025-02-15 16:12+0000\n"
+"Last-Translator: Alexander <dmitriev8925@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationssshtunnel/ru/>\n"
 "Language: ru\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.10\n"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:37
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:75
@@ -100,7 +100,7 @@ msgstr "Перенаправить порт с удалённого хоста �
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:34
 msgid "General Settings"
-msgstr "Общие настройки"
+msgstr "Основные Настройки"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:116
 msgid "Generate"
@@ -131,8 +131,7 @@ msgstr "Если не указан то используется ключ по �
 msgid ""
 "In LuCI you can do that with <a %s>System / Administration / SSH-Keys</a>"
 msgstr ""
-"В LuCI вы можете это сделать через <a %s>Система / Администрирование / SSH "
-"ключи</a>"
+"В LuCI можно сделать это в <a %s>Система / Администрирование / SSH ключи</a>"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:50
 msgid "Keys of SSH servers found in %s."
@@ -183,7 +182,7 @@ msgstr "Нет"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:19
 msgid "No SSH keys found, <a %s>generate a new one</a>"
-msgstr "Нет ни одного ключа, пожалуйста <a %s>сгенерируйте новый</a>."
+msgstr "Нет ни одного ключа, пожалуйста <a %s>сгенерируйте новый</a>"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:42
 msgid "Port"
